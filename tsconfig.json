@@ -1,14 +1,14 @@
 {
-  "extends": "@ajv-validator/config",
-  "include": ["lib"],
-  "compilerOptions": {
-    "outDir": "dist",
-    "moduleResolution": "node",
-    "lib": ["ES2018", "DOM"],
-    "types": ["node"],
-    "allowJs": true,
-    "module": "es6",
-    "target": "es5",
-    "resolveJsonModule": true
+    "extends": "@ajv-validator/config",
+    "include": ["lib"],
+    "compilerOptions": {
+      "outDir": "dist",
+      "lib": ["ES2018", "DOM"],
+      "types": ["node"],
+      "allowJs": true,
+      "module": "ES6",
+      "target": "es6",
+      "resolveJsonModule": true
+    }
   }
-}
+  

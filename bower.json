@@ -1,5 +1,5 @@
 {
-  "name": "ajv",
+  "name": "ajv-es",
   "description": "Another JSON Schema Validator",
   "main": "bundle/ajv.min.js",
   "authors": ["Evgeny Poberezkin"],
